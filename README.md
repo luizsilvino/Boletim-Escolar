@@ -11,10 +11,17 @@ Projeto desenvolvido em **HTML + JavaScript** com o objetivo de simular um bolet
 * Classificar alunos:
 
   * Excelente
-  * Bom
   * Aprovado
   * Reprovado
 * Exibir resultados na tela
+
+---
+
+##  Regras de Classificação
+
+* Média **≥ 9** → Excelente
+* Média **≥ 7** → Aprovado
+* Média **< 7** → Reprovado
 
 ---
 
@@ -39,7 +46,7 @@ Projeto desenvolvido em **HTML + JavaScript** com o objetivo de simular um bolet
 
 ##  Exemplo de saída
 
-Aluno 1: Média 7.0 → Bom
+Aluno 1: Média 7.0 → Aprovado
 Aluno 2: Média 5.0 → Reprovado
 Aluno 3: Média 9.0 → Excelente
 
@@ -50,7 +57,7 @@ Aluno 3: Média 9.0 → Excelente
 * Total de alunos aprovados
 * Maior média
 * Menor média
-* Interface estilizada (CSS)
+* Interface estilizada com CSS
 
 ---
 
@@ -62,6 +69,5 @@ O projeto foi publicado utilizando **GitHub Pages**.
 
 ## 👨‍💻 Autor
 
-Feito por Luiz Silvino
-
+Feito por **Luiz Silvino**
 Projeto desenvolvido para atividade do **SENAI São Paulo**
