@@ -1,0 +1,19 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Node (caso use futuramente)
+node_modules/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos de ambiente
+.env
